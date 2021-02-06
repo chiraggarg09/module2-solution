@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    margin: 35px;
+    margin-bottom: 30px;
     text-align: center;
     font-size:3rem;
 
@@ -33,6 +33,14 @@ p {
     position: absolute;
     right: 0px;
 
+}
+
+.title-2 {
+    background-color: blueviolet;
+}
+
+.title-3 {
+    background-color: coral;
 }
 
 /* For Desktop or Large Screens */
